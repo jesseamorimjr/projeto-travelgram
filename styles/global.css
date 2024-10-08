@@ -13,3 +13,7 @@
   --text-color-secundary: #6C6C6C;
   --shape-transparency: #ffffff8f;
 }
+body {
+  color: var(--text-color-secundary);
+background-color: var(--background-color);
+}
