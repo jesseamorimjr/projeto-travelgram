@@ -15,5 +15,5 @@
 }
 body {
   color: var(--text-color-secundary);
-background-color: var(--background-color);
+  background-color: var(--background-color);
 }
